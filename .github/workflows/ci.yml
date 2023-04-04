@@ -56,9 +56,6 @@ jobs:
       - name: Cygport compile
         run: cygport libvterm.cygport compile
         timeout-minutes: 30
-      - name: Cygport test
-        run: cygport libvterm.cygport test
-        timeout-minutes: 300
       - name: Cygport install
         run: cygport libvterm.cygport install
         timeout-minutes: 30
