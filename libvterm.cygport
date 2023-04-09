@@ -1,6 +1,7 @@
 NAME="libvterm"
 VERSION="0.3.1"
 RELEASE=1
+LICENSE="MIT"
 
 CATEGORY="Libs"
 SUMMARY="abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator"
