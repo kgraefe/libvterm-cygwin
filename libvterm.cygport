@@ -1,6 +1,6 @@
 NAME="libvterm"
 VERSION="0.3.1"
-RELEASE=1
+RELEASE=2
 LICENSE="MIT"
 
 CATEGORY="Libs"
